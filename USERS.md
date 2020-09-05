@@ -83,3 +83,6 @@ Currently, the following organizations are **officially** using Argo CD:
 1. [LexisNexis](https://www.lexisnexis.com/)
 1. [PayPay](https://paypay.ne.jp/)
 1. [New Relic](https://newrelic.com/)
+1. [Sumologic](https://sumologic.com/)
+
+
